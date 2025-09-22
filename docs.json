@@ -23,7 +23,7 @@
             ]
           },
           {
-            "group": "Dashboard",
+            "group": "Views",
             "pages": [
               "dashboard",
               "projects"
