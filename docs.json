@@ -23,6 +23,13 @@
             ]
           },
           {
+            "group": "Dashboard",
+            "pages": [
+              "dashboard",
+              "projects"
+            ]
+          },
+          {
             "group": "Customization",
             "pages": [
               "essentials/settings",
