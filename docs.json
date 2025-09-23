@@ -15,6 +15,7 @@
         "groups": [
           {
             "group": "Getting started",
+            "expanded": false,
             "pages": [
               "index",
               "quickstart",
